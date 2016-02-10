@@ -15,3 +15,5 @@
   * atom から Git コマンドを使えるようにする
 * file-icons
   * ファイルリストの横に種別アイコンを表示する
+* merge-conflicts
+  * merge を分かりやすく表示し、解決出来る
